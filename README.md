@@ -25,7 +25,7 @@ From security to backups
 
 ## Online accounts
 
-- Must use Two Factor Authentication (2FA)
+- Must use Two Factor Authentication (2FA), [list](https://twofactorauth.org) of services that support (if they dont request that they do, now adays it is very easy to implement)
 
 ## Devices (mic / camera)
 
